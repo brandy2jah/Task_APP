@@ -1,0 +1,24 @@
+1. Clone the repo:
+   git clone https://github.com/kyalo-alfred/Task-App.git
+   cd Task-App
+
+2. Create a feature branch:
+   git checkout -b feature/welcome-email
+
+3. Make changes (edit files: conf.php, mailing.php, users_list.php, GIT_WORKFLOW.txt)
+
+4. Stage changes:
+   git add conf.php mailing.php users_list.php GIT_WORKFLOW.txt
+
+5. Commit:
+   git commit -m "Complete assignment: Gmail welcome email + users list"
+
+6. Push branch to GitHub:
+   git push -u origin feature/welcome-email
+
+7. Create a Pull Request on GitHub from 'feature/welcome-email' into 'main' branch.
+
+8. Merge the Pull Request, so the main branch contains the final assignment code.
+
+Repository link:
+   https://github.com/kyalo-alfred/Task-App
